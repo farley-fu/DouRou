@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DuoRou</string>
+    <string name="menu_t1">论坛</string>
+    <string name="menu_t2">我的</string>
+    <string name="menu_t3">百科</string>
+
+</resources>
